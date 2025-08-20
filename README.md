@@ -1,5 +1,5 @@
 # SPANER: Shared Prompt Aligner for Multimodal Semantic Representation
-Implementation of [SPANER: Shared Prompt Aligner for Multimodal Semantic Representation](http://arxiv.org/abs/2508.11954)
+Implementation of [SPANER: Shared Prompt Aligner for Multimodal Semantic Representation](https://arxiv.org/abs/2508.13387)
 
 <div align="center">
       <p>
@@ -12,6 +12,8 @@ Implementation of [SPANER: Shared Prompt Aligner for Multimodal Semantic Represe
 <div align="center">
     <p>The University of Melbourne</p>
 </div>
+
+<p align="center"><img src="spaner_design.png" width="750" /></p>
 
 ## Updates
 - 🎉 The code will be open-sourced very soon
