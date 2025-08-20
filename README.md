@@ -13,7 +13,7 @@ Implementation of [SPANER: Shared Prompt Aligner for Multimodal Semantic Represe
     <p>The University of Melbourne</p>
 </div>
 
-<p align="center"><img src="spaner_design.png" width="750" /></p>
+<p align="center"><img src="spaner_design.png"/></p>
 
 ## Updates
 - 🎉 The code will be open-sourced very soon
